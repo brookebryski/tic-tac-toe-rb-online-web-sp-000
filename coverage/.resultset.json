@@ -3,11 +3,11 @@
     "coverage": {
       "/home/chic-state-0895/tic-tac-toe-rb-online-web-sp-000/lib/tic_tac_toe.rb": [
         1,
-        24,
-        24,
-        24,
-        24,
-        24,
+        25,
+        25,
+        25,
+        25,
+        25,
         null,
         null,
         1,
@@ -116,6 +116,6 @@
         null
       ]
     },
-    "timestamp": 1598409979
+    "timestamp": 1598410086
   }
 }
